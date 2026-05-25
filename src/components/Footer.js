@@ -11,11 +11,11 @@ const Footer = () => {
             <h3>Vishnu Real Estate</h3>
             <p>Your trusted partner for premium properties in Mumbai. We help you find your dream home.</p>
             <div className="social-icons">
-              <a href="#" className="social-icon"></a>
-              <a href="#" className="social-icon"></a>
-              <a href="#" className="social-icon"></a>
-              <a href="#" className="social-icon"></a>
-            </div>
+  <a href="https://instagram.com" className="social-icon">📷</a>
+  <a href="https://facebook.com" className="social-icon">📘</a>
+  <a href="https://twitter.com" className="social-icon">🐦</a>
+  <a href="https://youtube.com" className="social-icon">▶️</a>
+</div>
           </div>
 
           <div className="footer-section">
