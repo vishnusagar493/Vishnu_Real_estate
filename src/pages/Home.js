@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-// import { Link, useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { properties, mumbaiLocations } from '../data/propertiesData';
 import { useUser } from '../context/UserContext';
 import './Home.css';
