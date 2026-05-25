@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(135deg, #fef3c7 0%, #fce7f3 50%, #ddd6fe 100%);
+  background-attachment: fixed;
+  color: #333;
+  min-height: 100vh;
+}
+
+:root {
+  /* Vibrant Indian Colors */
+  --primary-orange: #ff6b35;
+  --primary-saffron: #ff8c42;
+  --primary-green: #10b981;
+  --primary-blue: #3b82f6;
+  --primary-purple: #8b5cf6;
+  --primary-pink: #ec4899;
+  --primary-cyan: #06b6d4;
+  --primary-indigo: #6366f1;
+  
+  /* Accent Colors */
+  --accent-gold: #fbbf24;
+  --accent-red: #ef4444;
+  --accent-yellow: #fde047;
+  --accent-lime: #84cc16;
+  --accent-rose: #f43f5e;
+  --accent-teal: #14b8a6;
+  
+  /* Text Colors */
+  --text-dark: #1f2937;
+  --text-light: #6b7280;
+  --text-white: #ffffff;
+  
+  /* Background Colors */
+  --bg-light: #ffffff;
+  --bg-gray: #f9fafb;
+  --bg-gradient-1: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --bg-gradient-2: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  --bg-gradient-3: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+  --bg-gradient-4: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+  --bg-gradient-5: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+  --bg-gradient-6: linear-gradient(135deg, #30cfd0 0%, #330867 100%);
+  
+  /* Shadows */
+  --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --shadow-hover: 0 8px 15px rgba(0, 0, 0, 0.2);
+  --shadow-colorful: 0 10px 30px rgba(139, 92, 246, 0.3);
+  --shadow-glow: 0 0 20px rgba(255, 107, 53, 0.4);
+}
