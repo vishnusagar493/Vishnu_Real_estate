@@ -661,5 +661,6 @@ export const properties = [
       "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800",
       "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
       "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?w=800"
-    ]
-  },]
+     ]
+  }
+];
