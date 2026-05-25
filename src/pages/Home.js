@@ -5,7 +5,7 @@ import { useUser } from '../context/UserContext';
 import './Home.css';
 
 const Home = () => {
-  const navigate = useNavigate();
+  // const navigate = useNavigate();
   const { user, toggleLike, toggleSave, isLiked, isSaved } = useUser();
   const featuredProperties = properties.slice(0, 6);
   

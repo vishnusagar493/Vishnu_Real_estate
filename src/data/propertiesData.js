@@ -12,8 +12,8 @@ const generateProperties = () => {
   let id = 1;
   
   const locations = mumbaiLocations;
-  const propertyTypes = ["Flat", "Independent Home", "Villa"];
-  const categories = ["Rent", "Sale"];
+  // const propertyTypes = ["Flat", "Independent Home", "Villa"];
+  // const categories = ["Rent", "Sale"];
   
   // Different Indian property owners
   const ownerNames = [

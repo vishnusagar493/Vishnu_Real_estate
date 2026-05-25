@@ -264,7 +264,13 @@ const Login = () => {
                 <input type="checkbox" />
                 Remember me
               </label>
-              <a href="#" className="forgot-password" onClick={handleForgotPasswordClick}>Forgot Password?</a>
+              <button
+  type="button"
+  className="forgot-password"
+  onClick={handleForgotPasswordClick}
+>
+  Forgot Password?
+</button>
             </div>
 
             <button 
